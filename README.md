@@ -2,13 +2,13 @@
 A versatile HUI device for mixing in any DAW that supports peripherals (Logic Pro, Pro Tools, CuBase).
 
 Schematic:
-<img src=assets/Schematic.png alt="Schematic" width="300"/>
+<img src=Assets/Schematic.png alt="Schematic" width="300"/>
 
 PCB:
-<img src=assets/PCB.png alt="PCB" width="300"/>
+<img src=Assets/PCB.png alt="PCB" width="300"/>
 
 Assembled:
-<img src=assets/Assembled.png alt="Assembled" width="300"/>
+<img src=Assets/Assembled.png alt="Assembled" width="300"/>
 
 | Part | Quantity |
 | --- | --- |
