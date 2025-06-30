@@ -3,16 +3,17 @@ A versatile HUI device for mixing in any DAW that supports peripherals (Logic Pr
 
 Schematic:
 
-<img src=Assets/Schematic.png alt="Schematic" width="300"/>
+![Schematic](Assets/Schematic.png)
 
 PCB:
 
-<img src=Assets/PCB.png alt="PCB" width="300"/>
+![PCB](Assets/PCB.png)
 
 Assembled:
 
-<img src=Assets/Assembled.png alt="Assembled" width="300"/>
+![Assembled](Assets/Assembled.png)
 
+## BOM
 | Part | Quantity |
 | --- | --- |
 | EC11 Rotary Encoder | 2 |
